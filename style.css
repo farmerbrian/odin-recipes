@@ -1,0 +1,27 @@
+/*style.css*/
+
+body {
+    background-color: grey;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: white;
+}
+
+.ingredients {
+    background-color: rgb(158, 156, 156);
+}
+
+.steps {
+    background-color: rgb(197, 195, 195);
+    color: rgb(68, 68, 68);
+}
+
+img {
+    display: block;
+   margin-left: auto; 
+   margin-right: auto;
+   height: 400px;
+   width: auto;
+}
+h1 {
+    text-align: center;
+}
